@@ -4,4 +4,4 @@ https://lukaszberka.github.io/gramatyka-niemiecka/
 
 ## Opis
 
-Strona o gramatyce niemieckiej, zawierająca ogólne uwagi, historię języka, szczegóły o zaimkach osobowych oraz listę przydatnych stron i książek
+This is a website about German grammar, containing general notes, the language's history, details about personal pronouns, as well as a list of useful websites and books.
